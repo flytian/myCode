@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\AndroidStudioProjects\\BasicTransition\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\97b06cdd00da392e8d131f4b47c4a5be5147f18d\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\BasicTransition\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\97b06cdd00da392e8d131f4b47c4a5be5147f18d\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\BasicTransition\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\97b06cdd00da392e8d131f4b47c4a5be5147f18d\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\BasicTransition\\Application\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\97b06cdd00da392e8d131f4b47c4a5be5147f18d\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]
